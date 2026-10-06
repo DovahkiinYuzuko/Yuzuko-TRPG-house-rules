@@ -12,9 +12,12 @@
 
 ## 権利表記（Disclaimer）
 
-本作は、「Chaosium Inc.」及び「株式会社アークライト」「株式会社KADOKAWA」が権利を有する『クトゥルフ神話TRPG』の二次創作物（ハウスルール等）です。
+本作は、「株式会社アークライト」及び「株式会社KADOKAWA」が権利を有する
+『クトゥルフ神話TRPG』シリーズの二次創作物です。
 
-(C) Chaosium Inc. / (C) Arclight Inc. / (C) KADOKAWA CORPORATION
+Call of Cthulhu is copyright ©1981, 2015, 2019 by Chaosium Inc. ;all rights reserved. Arranged by Arclight Inc.
+Call of Cthulhu is a registered trademark of Chaosium Inc.
+PUBLISHED BY KADOKAWA CORPORATION　「クトゥルフ神話TRPG」「新クトゥルフ神話TRPG」
 
 ---
 
