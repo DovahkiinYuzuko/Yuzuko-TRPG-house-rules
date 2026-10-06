@@ -1,0 +1,10 @@
+# project:ユズコ卓ハウスルール
+*
+!.gitignore
+# ---AUTO-Generated---
+# .gitignores/house-rule.gitignore
+!README.md
+!LICENSE
+
+!CoC/coc_yuzuko_houserule.md
+!CoC/coc_yuzuko_format.md
